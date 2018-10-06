@@ -1,2 +1,2 @@
 # ihsmunc.github.io
-Hosting for our website
+Hosting for our website.
